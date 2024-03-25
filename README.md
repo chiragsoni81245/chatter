@@ -2,6 +2,8 @@
 
 Chatter is a command-line peer-to-peer text messaging tool written in Go. With Chatter, users can connect with others and engage in real-time text-based conversations. This tool provides a convenient and lightweight way to communicate with other users directly from the command line.
 
+![Demo](./demo.png)
+
 ## Features
 
 -   **Peer-to-peer messaging**: Connect with other users directly without any intermediary servers.
