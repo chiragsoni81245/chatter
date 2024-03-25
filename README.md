@@ -25,6 +25,14 @@ To install Chatter, simply run the following command:
 go install github.com/chiragsoni81245/chatter
 ```
 
+**Note-** after this install you should get a executable file at your GOPATH, so make sure if you have your GOPATH configured into your PATH environment variable so that you can access that executable from anywhere, otherwise you can also run it by exclusively going to your GOPATH directoy
+
+To check your go environment variables like GOPATH, you can use this command
+
+```bash
+go env
+```
+
 ### Usage
 
 Once Chatter is installed, you can start using it from the command line. Here are some basic usage examples:

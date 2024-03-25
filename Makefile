@@ -1,3 +1,3 @@
 build:
-	@go build -o bin/chatter chatter/main.go
+	@go build -o bin/chatter main.go
 
